@@ -1,2 +1,2 @@
-# JS-TODOapp
+# appJS
 Created with CodeSandbox
